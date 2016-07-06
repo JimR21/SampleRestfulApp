@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  END OF THE WORLD AS WE KNOW IT
   </body>
 </html>
